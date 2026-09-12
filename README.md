@@ -3,7 +3,7 @@
 > Azerbaijan-specific validators, formatters and utilities for Node.js and the browser.
 > _Azərbaycana aid validatorlar, formatlayıcılar və köməkçi funksiyalar._
 
-[![CI](https://github.com/unico2007/az-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/unico2007/az-utils/actions/workflows/ci.yml)
+[![CI](https://github.com/farajzada/az-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/farajzada/az-utils/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -118,7 +118,7 @@ Everything is a named export, so you only bundle what you use.
 
 Contributions are very welcome — this project is built together. Adding a utility
 is a small, self-contained PR. Start with [CONTRIBUTING.md](./CONTRIBUTING.md) and
-grab a [`good first issue`](https://github.com/unico2007/az-utils/labels/good%20first%20issue).
+grab a [`good first issue`](https://github.com/farajzada/az-utils/labels/good%20first%20issue).
 Remaining ideas (region/city datasets, public-holiday calendar, Latin↔Cyrillic
 transliteration) are tracked in [ROADMAP.md](./ROADMAP.md).
 
