@@ -16,7 +16,7 @@ contributions and for growing the library one focused change at a time.
 ## Getting started
 
 ```bash
-git clone https://github.com/unico2007/az-utils.git
+git clone https://github.com/farajzada/az-utils.git
 cd az-utils
 npm install
 
@@ -89,9 +89,9 @@ test(phone): cover Nar Mobile prefixes
 
 ## Claiming an issue
 
-Comment on the [issue](https://github.com/unico2007/az-utils/issues) you want to
+Comment on the [issue](https://github.com/farajzada/az-utils/issues) you want to
 take so we don't duplicate work. New here? Look for the
-[`good first issue`](https://github.com/unico2007/az-utils/labels/good%20first%20issue) label.
+[`good first issue`](https://github.com/farajzada/az-utils/labels/good%20first%20issue) label.
 
 ## Code of Conduct
 

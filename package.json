@@ -1,6 +1,6 @@
 {
   "name": "azerbaijan-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Azerbaijan-specific validators, formatters and utilities for Node.js and the browser — FIN, VÖEN, IBAN, phone numbers, transliteration and more.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -46,12 +46,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unico2007/az-utils.git"
+    "url": "git+https://github.com/farajzada/az-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/unico2007/az-utils/issues"
+    "url": "https://github.com/farajzada/az-utils/issues"
   },
-  "homepage": "https://github.com/unico2007/az-utils#readme",
+  "homepage": "https://github.com/farajzada/az-utils#readme",
   "engines": {
     "node": ">=18"
   },
